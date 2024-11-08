@@ -1,0 +1,23 @@
+{
+  "name": "dsa-stacks-queues",
+  "version": "1.0.0",
+  "description": "Stacks and Queues",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Luis Irizarry",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisirizarry/Stacks-Queues.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luisirizarry/Stacks-Queues/issues"
+  },
+  "homepage": "https://github.com/luisirizarry/Stacks-Queues#readme"
+}
